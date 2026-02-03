@@ -553,5 +553,3 @@
 
 </html>
 
-Converti en HTML avec WordToHTML.net | Convertisseur de documents pour Windows
-
