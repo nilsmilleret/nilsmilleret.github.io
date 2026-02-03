@@ -1,2 +1,10 @@
 # nilsmilleret.github.io
-caca
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Une page HTML vierge</title>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+    </body>
+</html>
